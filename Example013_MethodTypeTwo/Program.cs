@@ -6,7 +6,7 @@ void MethodTypeTwo(string msg)
     Console.WriteLine(msg);
 }
 
-//MethodTypeTwo("Текст сообщения");
+MethodTypeTwo("Текст сообщения");
 
 void MethodTypeTwo_2(string msg, int count)
 {
